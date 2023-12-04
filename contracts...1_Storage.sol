@@ -13,4 +13,6 @@ contract Storage {
         return myNum;
     }
 
+//yes
+
 }
